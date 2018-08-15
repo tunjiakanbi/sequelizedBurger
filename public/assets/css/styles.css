@@ -1,0 +1,13 @@
+/* body {
+    border: 1px solid #000;
+} */
+.col-md-12 {
+    margin-bottom: 1.5em;
+}
+.jumbotron {
+    margin-top: 1.5em;
+    width: 100%;
+    color: #FFF;
+    background-image: url('../img/burgers.jpeg');
+    border: 0.5em solid grey;
+}
